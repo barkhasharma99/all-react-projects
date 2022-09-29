@@ -1,0 +1,10 @@
+-> components
+-> API response handle
+-> bootstrap components: classes
+-> why bootstrap?
+-> javascript:ES6: adv.:promises,ascynchronous,callback,OOPS
+              Events,DOM,BOM
+->css:transition,z-index
+-> redux
+             
+   

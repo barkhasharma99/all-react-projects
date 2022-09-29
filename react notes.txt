@@ -1,0 +1,14 @@
+class based component:
+
+it is a ES6 class.it manage the state to store the data in it.with in the program execution ,basically the name of the state is callled (object).
+it optionallly reacive a props or (argumnent ) and then send the html or jsx .
+
+
+
+intro to JSX:
+
+extension to javascript language syntax
+jsx = javascript and xml
+jsx also contain all the html lik attribute
+jsx made the code simpler and look elegent
+it is not necessary to write jsx to render html tags

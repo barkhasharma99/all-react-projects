@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@material/linear-progress": "^13.0.0",
+    "@mui/material": "^5.5.3",
+    "react-circle-slider": "^1.6.2"
+  }
+}
